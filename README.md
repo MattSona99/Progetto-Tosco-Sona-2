@@ -28,7 +28,8 @@ Filtri per lunghezze:
 - min : restituisce i post con messaggio minore della media di tutti i post;
 - max : restituisce i post con messaggio maggiore della media di tutti i post;
 - equals : restituisce i post con messaggio di uguale lunghezza della media di tutti i post;
-
+Filtri per hashtag:
+- checkhashtag : restituisce i post nella quale sono presenti hashtag;
 # SOFTWARE UTILIZZATI
 
 - Eclipse       (per sviluppare il codice)
