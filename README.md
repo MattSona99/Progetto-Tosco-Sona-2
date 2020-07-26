@@ -38,5 +38,5 @@ Filtri per hashtag:
 
 # AUTORI
 
-Matteo Sonaglioni
+Matteo Sonaglioni,
 Lorenzo Toscanelli
