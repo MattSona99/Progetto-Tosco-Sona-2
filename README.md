@@ -2,7 +2,9 @@
 Review del vecchio progetto
 # FUNZIONAMENTO
 
-La nostra applicazione permette di richiedere mediante API GET o POST diversi tipi di dati, connettendosi alla API di Facebook.
+La nostra applicazione permette di effettuare delle statistiche su Post di un utente Facebook, collegandosi con la API di Facebook.
+Le statistiche, nello specifico, riguardano la lunghezza del Post, la presenza di Hashtag e la presenza di testo esclusivamente in maiuscolo.
+
 Mediante l'utilizzo di SpringBoot è stato possibile effettuare delle richieste di POST o GET con rotte distinte, restituendo:
 - Metadati, in formato JSON (ovvero le informazioni generali di un post);
 - Dati, in formato JSON (ovvero le informazioni specifiche di ogni post);
