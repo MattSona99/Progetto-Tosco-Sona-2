@@ -39,6 +39,11 @@ Filtri per hashtag:
 - Postman       (per effettuare call)
 - Spring Boot   (per poter effettuare le chiamate di GET o POST)
 
+# NOTE
+
+Alcune librerie fanno parte di restfb.jar, quindi questo jar esterno deve essere incluso nelle librerie del progetto.
+Download: https://restfb.com/
+
 # AUTORI
 
 Matteo Sonaglioni,
